@@ -3,11 +3,11 @@ Desafio 01 Warren Tech Academy
 
 ## Tecnologias utilizadas
 -C#
--.Net core5
+-.Net 5
 -Git
 
 ## Como executar o Projeto
-baixar visual studio 2019 e .Net core5
+baixar visual studio 2019 e .Net core 5
 
 clonar repositorio
 git clone https://github.com/Nilvando97/desafio-warren01
